@@ -12,6 +12,7 @@
 		84F3460F1CEDA464004A7A09 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84F3460D1CEDA464004A7A09 /* Main.storyboard */; };
 		84F346111CEDA464004A7A09 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84F346101CEDA464004A7A09 /* Assets.xcassets */; };
 		84F346141CEDA464004A7A09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84F346121CEDA464004A7A09 /* LaunchScreen.storyboard */; };
+		84F3461C1CEDA740004A7A09 /* Space-medium-invader.sh-600x600.png in Resources */ = {isa = PBXBuildFile; fileRef = 84F3461B1CEDA740004A7A09 /* Space-medium-invader.sh-600x600.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		84F346101CEDA464004A7A09 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84F346131CEDA464004A7A09 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84F346151CEDA464004A7A09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84F3461B1CEDA740004A7A09 /* Space-medium-invader.sh-600x600.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Space-medium-invader.sh-600x600.png"; path = "../../../Downloads/Space-medium-invader.sh-600x600.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 			children = (
 				84F346081CEDA464004A7A09 /* Space Invaders */,
 				84F346071CEDA464004A7A09 /* Products */,
+				84F3461B1CEDA740004A7A09 /* Space-medium-invader.sh-600x600.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84F3461C1CEDA740004A7A09 /* Space-medium-invader.sh-600x600.png in Resources */,
 				84F346141CEDA464004A7A09 /* LaunchScreen.storyboard in Resources */,
 				84F346111CEDA464004A7A09 /* Assets.xcassets in Resources */,
 				84F3460F1CEDA464004A7A09 /* Main.storyboard in Resources */,
